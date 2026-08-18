@@ -14,7 +14,7 @@
 
   [![portfolio](https://img.shields.io/badge/portfolio-yashgoel1331.github.io-4ADE80?style=flat-square&labelColor=0A0B0D)](https://yashgoel1331.github.io/)
   [![linkedin](https://img.shields.io/badge/linkedin-yash--goel-4ADE80?style=flat-square&labelColor=0A0B0D)](https://www.linkedin.com/in/yash-goel-22b952283/)
-  [![email](https://img.shields.io/badge/email-yashgoel31105%40gmail.com-4ADE80?style=flat-square&labelColor=0A0B0D)](mailto:yashgoel31105@gmail.com)
+  <a href="mailto:yashgoel31105@gmail.com"><img src="https://img.shields.io/badge/email-yashgoel31105%40gmail.com-4ADE80?style=flat-square&labelColor=0A0B0D" alt="email yashgoel31105@gmail.com" /></a>
   [![available](https://img.shields.io/badge/status-available%20·%202026-4ADE80?style=flat-square&labelColor=0A0B0D)](https://yashgoel1331.github.io/)
 
 </div>
