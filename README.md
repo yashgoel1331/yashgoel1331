@@ -80,8 +80,8 @@ When LLM pipelines misbehave, I'd rather **read the trace** than guess.
 ## telemetry
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashgoel1331&show_icons=true&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&icon_color=4ADE80&text_color=E8E6E0&ring_color=4ADE80" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoel1331&layout=compact&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&text_color=E8E6E0" alt="top languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=yashgoel1331&show_icons=true&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&icon_color=4ADE80&text_color=E8E6E0&ring_color=4ADE80" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashgoel1331&layout=compact&hide_border=true&bg_color=0A0B0D&title_color=4ADE80&text_color=E8E6E0" alt="top languages" />
 </div>
 
 <div align="center">
