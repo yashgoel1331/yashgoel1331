@@ -49,7 +49,7 @@ Shipped on Amul AI's chat + voice stack — milk-collection lookups, vet / AI-te
 | duplicate backend code | **40%** removed |
 | milk / payout lookups | **1,200+** in production |
 | call bookings | **650+** in production |
-| graceful hangups | **500+** (≈ $0.40–$0.50 saved per avoided loop) |
+| graceful hangups | **2,000+** (≈ $0.40–$0.50 saved per avoided loop) |
 | glossary entries | **2,000+** with live updates, no redeploy |
 
 ## selected systems
@@ -58,9 +58,7 @@ Shipped on Amul AI's chat + voice stack — milk-collection lookups, vet / AI-te
 | :--- | :--- | :--- |
 | **[RBAC Banking](https://github.com/yashgoel1331/rbac_banking)** | JWT + DB-backed permissions on FastAPI / PostgreSQL. Roles can grow without a schema rewrite; authz is revalidated on the request, not just baked into the token. | `Python` `FastAPI` `PostgreSQL` `RBAC` |
 | **[Duolingo Clone](https://github.com/yashgoel1331/Clone-Duolingo)** | Full-stack learning path: lessons, XP / hearts / streaks, weekly leaderboard. Next.js frontend, FastAPI + Alembic backend. [Live demo](https://frontend-six-alpha-86.vercel.app/). | `TypeScript` `Next.js` `FastAPI` |
-| **[amul-oan-api](https://github.com/yashgoel1331/amul-oan-api)** · **[voice-oan-api](https://github.com/yashgoel1331/voice-oan-api)** | OpenAgriNet stack for Amul — conversational chat + voice APIs, farmer tools, moderation, translation pipelines. | `Python` `LLM` `Langfuse` |
-| **[session_resolver](https://github.com/yashgoel1331/session_resolver_langfuse_flywheel)** | Session / trace resolution against Langfuse — the debugging layer around production LLM traffic. | `Python` `Langfuse` |
-| **[adaptive-dsa-planner](https://github.com/yashgoel1331/adaptive-dsa-planner)** | Planner that adapts DSA practice instead of dumping a static sheet. | `JavaScript` |
+| **[amul-oan-api](https://github.com/yashgoel1331/amul-oan-api)** | OpenAgriNet stack for Amul — conversational chat APIs, farmer tools, moderation, translation pipelines. | `Python` `LLM` `Langfuse` |
 
 More context, writeups, and the Objection / Orbit builds: **[yashgoel1331.github.io](https://yashgoel1331.github.io/)**.
 
